@@ -1,0 +1,37 @@
+{
+  "video_id": "vlog_demo_001",
+  "title": "Coffee roastery day trip",
+  "duration_seconds": 60.0,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Hey everyone, welcome back to the channel."
+    },
+    {
+      "id": 2,
+      "start": 4.5,
+      "end": 10.0,
+      "text": "So today I finally drove out to that little coffee roastery up in the hills."
+    },
+    {
+      "id": 3,
+      "start": 13.5,
+      "end": 19.0,
+      "text": "The road winds through these pine forests and there's one spot where you can see the whole valley below."
+    },
+    {
+      "id": 4,
+      "start": 22.5,
+      "end": 28.0,
+      "text": "When I got there they were roasting a fresh batch of Ethiopian beans."
+    },
+    {
+      "id": 5,
+      "start": 31.5,
+      "end": 37.0,
+      "text": "So I grabbed a pour-over and sat out on the wooden deck overlooking the river."
+    }
+  ]
+}
